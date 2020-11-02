@@ -9,3 +9,6 @@ Abstract —— We propose a two-step approach (coarse + fine) for the external 
 
 * results:
 ![](https://github.com/YingnaSu/camera_lidar_calibration/blob/main/image/res.png)
+
+Please cite the paper when referring to Lidar-Camera-Calibration in general:
+Yingna Su, Yaqing Ding, et al. A two-step approach to Lidar-Camera calibration. ICPR, 2020.

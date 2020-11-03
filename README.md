@@ -5,7 +5,7 @@ Abstract —— We propose a two-step approach (coarse + fine) for the external 
 <img src="https://github.com/YingnaSu/camera_lidar_calibration/blob/main/image/flowchart.png" width="600" height="180"/>
 
 * coarse calibration:
-<img src="https://github.com/YingnaSu/camera_lidar_calibration/blob/main/image/coarse_calib.png" width="300" height="250"/>
+<img src="https://github.com/YingnaSu/camera_lidar_calibration/blob/main/image/coarse_calib.png" width="300" height="200"/>
 
 * fine calibration:
 <img src="https://github.com/YingnaSu/camera_lidar_calibration/blob/main/image/calires.png" width="600" height="150"/>
